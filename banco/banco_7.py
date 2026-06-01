@@ -183,7 +183,7 @@ def operar():
 
         print("Usuario:\n", usuario_actual,"\n")
         # Fecha actual
-        fecha_actual = datetime.now()
+        fecha_actual = datetime.now() ### usar mejor: datetime.now().strftime("%d/%m/%Y, %H:%M:%S") 
         print("Fecha:", fecha_actual)
         # Saldo inicial
         print("Saldo inicial:", saldo_inicial)

@@ -234,3 +234,8 @@ while True:
         print("Opción inválida.")
         continue
      
+'''
+https://www.reddit.com/r/PythonLearning/comments/1tzjy1v/practicing_class_and_object_by_building_a_banking/
+
+usar ese ejemplo de reddit para expandir
+'''
